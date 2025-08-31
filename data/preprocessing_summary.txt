@@ -1,0 +1,13 @@
+=== Stage 3: Data Preprocessing Summary ===
+
+original_data_shape: (284807, 31)
+cleaned_data_shape: (283726, 33)
+duplicates_removed: 1081
+features_used: 30
+train_size: 226980
+test_size: 56746
+train_fraud_count: 378
+test_fraud_count: 95
+train_fraud_rate: 0.0016653449643140364
+test_fraud_rate: 0.0016741268107003137
+cv_folds: 5

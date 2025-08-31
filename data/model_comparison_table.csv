@@ -1,0 +1,4 @@
+Model,Test_AUC,Accuracy,Precision,Recall,F1_Score,Average_Precision
+AdaBoost,0.9664,0.999,0.7262,0.6421,0.6816,0.5587
+LogisticRegression,0.9657,0.9747,0.0552,0.8737,0.1038,0.6746
+RandomForest,0.9576,0.9993,0.8068,0.7474,0.776,0.7209

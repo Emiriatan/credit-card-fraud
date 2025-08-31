@@ -1,0 +1,8 @@
+=== Stage 1: Data Overview Summary ===
+
+Data shape: (284807, 31)
+Missing values: {}
+Duplicate rows: 1081
+Class distribution: {0: 284315, 1: 492}
+Class percentage: {0: 99.82725143693798, 1: 0.1727485630620034}
+Fraud ratio: 1:577

@@ -1,0 +1,12 @@
+=== Stage 5: Model Evaluation Summary ===
+
+Best Model: AdaBoost
+Best AUC: 0.9664
+Total Models Evaluated: 3
+Evaluation Date: 2025-08-29 12:39:52
+
+Detailed Performance:
+             Model  Test_AUC  Precision   Recall  F1_Score
+          AdaBoost  0.966360   0.726190 0.642105  0.681564
+LogisticRegression  0.965669   0.055186 0.873684  0.103815
+      RandomForest  0.957553   0.806818 0.747368  0.775956
